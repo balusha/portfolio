@@ -1,0 +1,14 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass -w scss:dist/css"
+  },
+  "author": "Oleg Balushkin",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.85.0"
+  }
+}
