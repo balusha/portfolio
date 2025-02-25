@@ -1,11 +1,6 @@
 @import 'config';
 @import 'menu';
-
-$primary-color: #444;
-$secondary-color: #eece1a;
-$show-home-image: true;
-$home-image: url(../img/background1.jpg);
-$background-opacity: 0.9;
+@import 'mobile';
 
 * {
     box-sizing: border-box;
